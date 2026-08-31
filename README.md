@@ -11,7 +11,7 @@ Course files only. Each course uses:
 ```
 tower-crane/
   load-charts/
-    hammerhead/
+    flattop/
       lesson/          Reading Tower Crane Load Charts.pptx + .pdf
       slides/lesson/   named stills (part2–part5, bonus, practice)
       slides/source/   raw ChatGPT image exports
